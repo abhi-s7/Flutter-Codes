@@ -1,0 +1,9 @@
+Row, Col, StackLayout, Expanded
+1. Login Screen
+2. Splash Screen
+3. Music App with Dynamic Row and Column StackLayout
+4. SErver Calls, Api Consume, 3rd party Library Use
+5. Using ListView, Future
+
+Splash Screen (Done) -> Login Screen -> Music
+BackEnd

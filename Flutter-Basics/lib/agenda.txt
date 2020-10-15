@@ -1,0 +1,17 @@
+1. 1. VSCode Flutter + Real Device
+2. Scaffold, Stateless Widget, AppBar, Text, TextStyle
+3. Container, BoxDecoratin, Color Schemes, Icons
+4. Images (Network, Local)
+5. AppIcons
+6. Android Studio
+
+Layouts - for arranging Widgets
+
+Single Child
+1. Container (Margin)  
+2. Padding
+
+Multi Child - Static & Dynamic
+3. Row and Column
+    Row - Arrangment in horizontal manner
+    Column - Vertial Arrangment
