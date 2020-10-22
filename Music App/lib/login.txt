@@ -1,0 +1,10 @@
+After Login with OAuth , if you want to skip the Login Screen 
+Store the token either in SQLite or SharePrefrences
+Or most better way is Flutter Secure Storage
+
+This does AES Encryption of the data so it will be Secure
+Now store the token and every time app launces compare this token with Firebase 
+So that we don't have to login again
+
+When we login with Gmail -> Gmail sends Token to Firebase DB -> Then it passes to APK
+
